@@ -1,0 +1,35 @@
+﻿@page
+@model PaymentSolution.Pages.Consumer.InquireModel
+
+@{
+    ViewData["Title"] = "Inquire";
+}
+
+<h1>Inquire</h1>
+
+<form method="post">
+    <div class="col-10">
+        <div class="form-group">
+            <label for="inputName">Name</label>
+            <input type="text" class="form-control" asp-for="Model.Name" aria-describedby="nameHelp">
+            <small id="nameHelp" class="form-text text-muted">Please enter your name here.</small>
+        </div>
+        <div class="form-group">
+            <label for="inputEmail">Email Address</label>
+            <input type="email" class="form-control" asp-for="Model.EmailAddress" aria-describedby="emailHelp">
+            <small id="emailHelp" class="form-text text-muted">We need your email address.</small>
+        </div>
+        <div class="form-group">
+            <label for="inputContactNo">Contact No</label>
+            <input type="text" class="form-control" asp-for="Model.ContactNo" aria-describedby="contactNoHelp">
+            <small id="contactNoHelp" class="form-text text-muted">Contact Number to contact.</small>
+        </div>
+        <div class="form-group">
+            <label for="inputContactNo">Description</label>
+            <input type="text" class="form-control" asp-for="Model.Description" aria-describedby="descriptionHelp">
+            <small id="descriptionHelp" class="form-text text-muted">We need more details of you and your preferences.</small>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>
+

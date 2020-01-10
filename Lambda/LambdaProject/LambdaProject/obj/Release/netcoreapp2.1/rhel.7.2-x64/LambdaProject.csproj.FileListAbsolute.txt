@@ -1,0 +1,11 @@
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.deps.json
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.runtimeconfig.json
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.runtimeconfig.dev.json
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.dll
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.pdb
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.csprojAssemblyReference.cache
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.csproj.CoreCompileInputs.cache
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.AssemblyInfoInputs.cache
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.AssemblyInfo.cs
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.dll
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaProject.pdb

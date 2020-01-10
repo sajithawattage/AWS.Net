@@ -1,0 +1,11 @@
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Debug\netcoreapp2.1\LambdaProject.csproj.CoreCompileInputs.cache
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Debug\netcoreapp2.1\LambdaProject.AssemblyInfoInputs.cache
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Debug\netcoreapp2.1\LambdaProject.AssemblyInfo.cs
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Debug\netcoreapp2.1\LambdaProject.deps.json
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Debug\netcoreapp2.1\LambdaProject.runtimeconfig.json
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Debug\netcoreapp2.1\LambdaProject.runtimeconfig.dev.json
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Debug\netcoreapp2.1\LambdaProject.dll
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\bin\Debug\netcoreapp2.1\LambdaProject.pdb
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Debug\netcoreapp2.1\LambdaProject.dll
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Debug\netcoreapp2.1\LambdaProject.pdb
+D:\Projects\AWS\Lambda\LambdaProject\LambdaProject\obj\Debug\netcoreapp2.1\LambdaProject.csprojAssemblyReference.cache
